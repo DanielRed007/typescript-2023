@@ -1,6 +1,7 @@
 
 node_modules
 notes
+coverage
 package-lock.json
 build
 .env
