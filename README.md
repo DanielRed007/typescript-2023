@@ -65,7 +65,8 @@ Then, in the package.json file, in the script property we add:
     
 try
     
-    npm run start:dev 
+    npm run start:dev // start dev server
+    npm run test // run tests
 
 and you server should be ready to start. 
  
