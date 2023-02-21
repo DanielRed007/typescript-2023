@@ -2,3 +2,5 @@
 node_modules
 notes
 package-lock.json
+build
+.env
