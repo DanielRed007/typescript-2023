@@ -69,3 +69,4 @@ try
 
 and you server should be ready to start. 
  
+PD: Remember to create a .env file locally, to store your environment variables.
